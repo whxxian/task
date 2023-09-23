@@ -1,9 +1,6 @@
 {
-  "homepage":".",
+  "homepage":"https://whxxian.github.io/task",
   "name": "task-mange-system",
-  "msw": {
-    "workerDirectory": "build"
-  },
   "version": "0.1.0",
   "private": true,
   "dependencies": {
