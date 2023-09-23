@@ -1,6 +1,9 @@
 {
   "homepage":".",
   "name": "task-mange-system",
+  "msw": {
+    "workerDirectory": "public"
+  },
   "version": "0.1.0",
   "private": true,
   "dependencies": {
