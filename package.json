@@ -2,7 +2,7 @@
   "homepage":".",
   "name": "task-mange-system",
   "msw": {
-    "workerDirectory": "public"
+    "workerDirectory": "./build/mockServiceWorker.js"
   },
   "version": "0.1.0",
   "private": true,
