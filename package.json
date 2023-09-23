@@ -38,7 +38,7 @@
     "prepare": "husky install",
     "json-server": "json-server __json_server_mock__/db.json --watch --port 8087",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build -r https://github.com/whxxian/task-mange-system.git -b gh-pages"
   },
   "eslintConfig": {
     "extends": [
