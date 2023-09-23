@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/style/card.module.less"],"names":[],"mappings":"AAAA,iDAEM,iBAAN,CAEE,uDAEI,kBADN","file":"5.3ec54b0c.chunk.css","sourcesContent":[".TaskCard{\n    .DeleteTaskBtn{\n      visibility: hidden;\n    }\n  &:hover {\n    .DeleteTaskBtn {\n      visibility: visible;\n    }\n  }\n}\n\n@primary-color: rgb(0,82,204);@font-size-base: 16px;"]}
