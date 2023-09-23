@@ -38,7 +38,7 @@
     "eject": "react-scripts eject",
     "prepare": "husky install",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build -r https://github.com/whxxian/task-mange-system.git -b gh-pages"
+    "deploy": "gh-pages -d build -r https://github.com/whxxian/task.git -b gh-pages"
   },
   "eslintConfig": {
     "extends": [
